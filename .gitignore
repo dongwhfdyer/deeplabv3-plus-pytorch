@@ -8,6 +8,7 @@ lfw/
 logs/
 model_data/
 .temp_miou_out/
+/.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -138,3 +139,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/rubb/
+/datasets/
+/img/
+/img_out/
+/logs/
